@@ -1,11 +1,11 @@
 # Python_Data_Science
-Some exercice to understand the different role in the data 
+Some exercices to understand the different role in the data 
 
+## Modules
 
-## Exercice
-
-• Data engineer
-• Data Warehouse
-• Data Analyst
-• Data Scientist part 1
-• Data Scientist part 2
+| Module | Description |
+|:------:| ----------- |
+|   **Data engineer**   |  what is the role of a data engineer |
+|   **Data Analyst**   |  |
+|   **Data Scientist part 1**   |  |
+|   **Data Scientist part 2**   |  |
