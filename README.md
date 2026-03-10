@@ -5,7 +5,7 @@ Some exercices to understand the different role in the data
 
 | Module | Description |
 |:------:| ----------- |
-|   **Data engineer**   |  what is the role of a data engineer |
-|   **Data Analyst**   |  |
-|   **Data Scientist part 1**   |  |
-|   **Data Scientist part 2**   |  |
+|   **[Data engineer](ex00/README.md)**   |  what is the role of a data engineer |
+|   **[Data Analyst](ex01/README.md)**   |  |
+|   **[Data Scientist part 1](ex02/README.md)**   |  |
+|   **[Data Scientist part 2](ex03/README.md)**   |  |
